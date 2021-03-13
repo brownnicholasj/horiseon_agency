@@ -46,4 +46,5 @@ Additional updates:<br>
     -style.css reorganized as seen in sequential order in code<br>
         -nested classes as needed<br>
         -utilized comments in css to help explain<br>
-    -created repository on github and pushed through bash
+    -created repository on github and pushed through bash<br>
+    -commits were lower as I setup an initial repository and completed work -- I did something within the settings of the repository and I was having issues resolving, so I created a new repository and moved the completed work to new repository with 'first commit'
