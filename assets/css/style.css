@@ -10,10 +10,10 @@
     }
 
     .background {
-        height: 1500px;
+        height: 1000px;
         width: 100%;
         margin-bottom: 25px;
-        background-image: url("../images/digital-marketing-meeting.jpg");
+        /*background-image: url("../images/digital-marketing-meeting.jpg");*/
         background-size: cover;
         background-position: center;
     }
@@ -75,6 +75,7 @@
         height: 100%;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         background-color: #2589bd;
+        font-size: large;
     }
 
 /* Article Elements - used in both Section and Aside */
@@ -204,6 +205,6 @@
         text-align: center;
     }
 
-        .footer h2 {
+        .footer h4 {
             font-size: 20px;
         }
