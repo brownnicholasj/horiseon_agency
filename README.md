@@ -26,3 +26,5 @@ style.css file was reorganized as seen in sequential order in code.
     - open web page, tab to highlighted nav item 3 (Social Media Marketing), press 'Enter', link to correct SMM section of the page.
 - color contrast accessibility validtor
     - utilize website: https://color.a11y.com/Contrast/ and paste website to validate contrast
+- accessibility validator
+    - website: https://achecker.ca/checker/index.php and paste website to validate content
