@@ -13,7 +13,7 @@ Horiseon Marketing Agency wants their existing page/code to be udpated [Refactor
 - [CSS Formatting](#css_formatting)
 - [Accessibility Tests](#accessibility_tests)
 ## Accessibility
-Utilized appropriate semantic tags to utilize accessibility elements.<br> Header, nav, img, section, article, aside, and footer were used for the HTML layout.  Alt tags were used on img files.  H tags were used in sequential, cascading forms.<br> Utilized Aria-Label for image file in order to label the background image.
+Utilized appropriate semantic tags to utilize accessibility elements.<br> Header, nav, img, section, article, aside, and footer were used for the HTML layout.  Alt tags were used on img files.  H tags were used in sequential, cascading forms.<br> Added skip navigation link and hid it using css. Added accessibility policy within the footer.
 ## CSS_Formatting
 style.css file was reorganized as seen in sequential order in code.
 - Nested classes as needed
